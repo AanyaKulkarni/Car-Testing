@@ -1,2 +1,2 @@
-# Car-Testing
-Checks whether when a car crashes into a wall at different velocities, if it is good, if it is average, or if it is lethal. Lethal = red. Average = yellow. Good = green.
+# p5.play-boilerplate
+Boiler plate for p5.play
